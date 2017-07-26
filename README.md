@@ -5,4 +5,4 @@ In each file, the latitude data are in the first column and the longitude data a
 
 Data of each subject are all in the same folder. Each data file is named after the name of the corresponding video sequence.
 The 48 panoramic video sequences can be downloaded here:
-http://pan.baidu.com/s/1i4CpJiX
+http://pan.baidu.com/s/1bDWzvC
