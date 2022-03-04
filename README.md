@@ -5,7 +5,7 @@ In each file, the latitude data are in the first column and the longitude data a
 
 Data of each subject are all in the same folder. Each data file is named after the name of the corresponding video sequence.
 The 48 panoramic video sequences can be downloaded here:
-https://www.dropbox.com/sh/bs1pe50185ywhti/AAAL03q48Rg2Tcwpxc5MUNX6a?dl=0
+https://www.dropbox.com/sh/0egvuyt4nlfe8kg/AAAkDFiWfmxwG_pzGliPdeEga?dl=0
 
 
 # VR-VQA48
